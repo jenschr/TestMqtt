@@ -1,10 +1,4 @@
-// This example uses an ESP32 Development Board
-// to connect to shiftr.io.
-//
-// You can check on your device after a successful
-// connection here: https://www.shiftr.io/try.
-//
-// by Joël Gähwiler
+// Simplified example using arduino-mqtt by Joël Gähwiler
 // https://github.com/256dpi/arduino-mqtt
 
 #include <WiFi.h>
