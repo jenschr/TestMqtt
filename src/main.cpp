@@ -10,11 +10,11 @@
 #include <WiFi.h>
 #include <MQTT.h>
 
-const char ssid[] = "Student";
-const char pass[] = "Kristiania1914";
+const char ssid[] = "ssid";
+const char pass[] = "pass";
 const char mqtt_username[] = "YourUserName";
 const char mqtt_password[] = "YourPassword";
-const char mqtt_server[]   = "mqtt.toytronics.com";
+const char mqtt_server[]   = "mqtt_server_address";
 String yourPersonalTopic;
 
 WiFiClient networkClient;
